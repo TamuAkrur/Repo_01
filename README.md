@@ -1,2 +1,4 @@
 # Repo_01
-This is how a file is commited via 画面上。
+This repo contains python 3.7 files that i looked upon.
+These scripts may require additional installations to run properly.
+
